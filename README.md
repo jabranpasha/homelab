@@ -6,4 +6,3 @@ To get started I needed a hypervisor, and I went with VMWare WorkStation Pro bec
 
 For my first ever virtual machine I decided to go with Ubuntu Server, because I've heard that Ubuntu is the most beginner-friendly, and I wanted to learn by using the CLI and not having to rely on a graphical interface that I would have with the desktop version.
 
-S
